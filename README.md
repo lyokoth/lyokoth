@@ -1,9 +1,6 @@
 ### Hey y'all 👋🏿
 ---
-<div align ="center">
- <img src=
- </div>
- 
+[]!(https://github.com/lyokoth/lyokoth/blob/main/giphy.gif)
 <h2>About Me</h2>
 
 - 🔭 I’m currently working on: Finishing up my degree. On the side, I'm working on the music for a Pokemon fangame.
