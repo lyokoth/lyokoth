@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning: HTML, CSS, Scala, C#
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I play soccer, volleyball, and I ran track&field. I also do Tae Kwon Do and enjoy working out. I also enjoy video games, reading manga, and drawing in my freetime.
-- 👩🏿‍💻 Passion projects: Coming soon
+- 👩🏿‍💻 Passion projects: 
 
  ---
  
