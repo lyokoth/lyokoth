@@ -1,8 +1,8 @@
 ### Hey y'all 👋🏿
 ---
 <div align ="center">
- <img src="https://giphy.com/embed/ZBoHqyxmhv85ff3qOI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spotify-bts-mots7-mapofthesoul7-ZBoHqyxmhv85ff3qOI">via GIPHY</a></p>
- </div
+ <img src="https://giphy.com/embed/ZBoHqyxmhv85ff3qOI" width="480" height="480" frameBorder="0" class="giphy-embed" href="https://giphy.com/gifs/spotify-bts-mots7-mapofthesoul7-ZBoHqyxmhv85ff3qOI">
+ </div>
  
 <h2>About Me</h2>
 
