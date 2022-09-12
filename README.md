@@ -1,5 +1,7 @@
 ### Hey y'all 👋🏿
 ---
+<div id ="badges">
+  <img src="https://komarev.com/ghpvc/?username=lyokoth&style=flat-square&color=blue" alt=""/>
 ![](https://github.com/lyokoth/lyokoth/blob/main/giphy.gif)
 <h2>About Me</h2>
 
@@ -38,5 +40,4 @@
   </div>
  - ✉️ lyokoth@utica.edu
 
-<div id ="badges">
-  <img src="https://komarev.com/ghpvc/?username=lyokoth&style=flat-square&color=blue" alt=""/>
+
