@@ -1,14 +1,15 @@
 ### Hey y'all 👋🏿
 ---
-
-<h1>About Me</h1>
+<div align ="center">
+ <img src ="https://giphy.com/gifs/spotify-bts-mots7-mapofthesoul7-ZBoHqyxmhv85ff3qOI" width = "600" height = "300"/>
+ </div
+ 
+<h2>About Me</h2>
 
 - 🔭 I’m currently working on: Finishing up my degree. On the side, I'm working on the music for a Pokemon fangame.
 - 🌱 I’m currently learning: HTML, CSS, Scala, C#
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I play soccer, volleyball, and I ran track&field. I also do Tae Kwon Do and enjoy working out. I also enjoy video games, reading manga, and drawing in my freetime.
-
-
 
  ---
  
@@ -38,7 +39,7 @@
   <img src ="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   </div>
-  <h2>- ✉️ lyokoth@utica.edu</h2>
+ - ✉️ lyokoth@utica.edu
 
 <div id ="badges">
   <img src="https://komarev.com/ghpvc/?username=lyokoth&style=flat-square&color=blue" alt=""/>
