@@ -7,23 +7,9 @@
 - 🌱 I’m currently learning: HTML, CSS, Scala, C#
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I play soccer, volleyball, and I ran track&field. I also do Tae Kwon Do and enjoy working out. I also enjoy video games, reading manga, and drawing in my freetime.
-- ✉️ 
 
----
 
-<h1>Let's connect! 😊</h1>
-<div id ="badges">
- <a href ="https://www.linkedin.com/in/lynette-okoth/">
- <img src ="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-  </a>
-  <a href ="https://twitter.com/lyokoth7">
-  <img src ="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  </div>
 
-<div id ="badges">
-  <img src="https://komarev.com/ghpvc/?username=lyokoth&style=flat-square&color=blue" alt=""/>
- 
  ---
  
 ### :hammer_and_wrench: Languages and Tools : 
@@ -38,4 +24,21 @@
   <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt ="python" width="40" height="40"/>
 </div>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lyokoth&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyokoth)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+<h1>Let's connect! 😊</h1>
+<div id ="badges">
+ <a href ="https://www.linkedin.com/in/lynette-okoth/">
+ <img src ="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href ="https://twitter.com/lyokoth7">
+  <img src ="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  </div>
+  <h2>- ✉️ lyokoth@utica.edu</h2>
+
+<div id ="badges">
+  <img src="https://komarev.com/ghpvc/?username=lyokoth&style=flat-square&color=blue" alt=""/>
