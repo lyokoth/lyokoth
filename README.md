@@ -1,7 +1,7 @@
 ### Hey y'all 👋🏿
 ---
 <div align ="center">
- <img src ="https://giphy.com/gifs/spotify-bts-mots7-mapofthesoul7-ZBoHqyxmhv85ff3qOI" width = "600" height = "300"/>
+ <img src ="https://giphy.com/gifs/spotify-kpop-9x3rbdFIKhYQsHroPW" width = "600" height = "300"/>
  </div
  
 <h2>About Me</h2>
