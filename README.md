@@ -1,7 +1,7 @@
 ### Hey y'all 👋🏿
 ---
 <div align ="center">
- <img src="https://giphy.com/embed/ZBoHqyxmhv85ff3qOI" width="480" height="480" frameBorder="0" class="giphy-embed">
+ <img src=
  </div>
  
 <h2>About Me</h2>
