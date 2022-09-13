@@ -12,8 +12,9 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I play soccer, volleyball, and I ran track&field. I also do Tae Kwon Do and enjoy working out. I also enjoy video games, reading manga, and drawing in my freetime.
 <h2>👩🏿‍💻 Passion projects:</h2> 
-- 🕹️Pokemon Azure - co-composer
-- Why is lo-fi so calming? - A data science project I'm going to start in my free time
+- 🕹️Pokemon Azure: co-composer
+  
+-  🎶Why is lo-fi so calming?: A data science project I'm going to start in my free time
 
  ---
  
