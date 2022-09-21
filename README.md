@@ -15,6 +15,7 @@
 -  🕹️Pokemon Azure: co-composer
   
 -  🎶Why is lo-fi so calming?: A data science project I'm going to start in my free time
+-  BTS Popularity analysis - A simplr project looking at BTS' most popular songs.
 
  ---
  
