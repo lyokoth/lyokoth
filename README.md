@@ -12,9 +12,12 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I play soccer, volleyball, and I ran track&field. I also do Tae Kwon Do and enjoy working out. I also enjoy video games, reading manga, and drawing in my freetime.
 <h2>👩🏿‍💻 Passion projects:</h2> 
-- COVID-19 Fraud Loss : A project that examines the types of fraud that occurred during the COVID-19 pandemic, as well as fraud post COVID-19. Uses Python, R, and  Excel.
--  Pokedex project : A project using PokeAPI to recreate the Pokedex from the video game Pokemon: Legends Arceus.
-- BTS Spotify analysis : A project using spotipy to analyze the top 10 albums and songs from the K-Pop band BTS.</p>
+- 
+  COVID-19 Fraud Loss : A project that examines the types of fraud that occurred during the COVID-19 pandemic, as well as fraud post COVID-19. Uses Python, R, and  Excel.
+-  
+  Pokedex project : A project using PokeAPI to recreate the Pokedex from the video game Pokemon: Legends Arceus.
+-
+  BTS Spotify analysis : A project using spotipy to analyze the top 10 albums and songs from the K-Pop band BTS.</p>
 
  ---
  
