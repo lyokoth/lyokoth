@@ -15,7 +15,7 @@
 - 
   COVID-19 Fraud Loss : A project that examines the types of fraud that occurred during the COVID-19 pandemic, as well as fraud post COVID-19. Uses Python, R, and  Excel.
 -  
-  Pokedex project : A project using PokeAPI to recreate the Pokedex from the video game Pokemon: Legends Arceus.
+  Discord Bot
 -
   BTS Spotify analysis : A project using spotipy to analyze the top 10 albums and songs from the K-Pop band BTS.</p>
 
