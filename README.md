@@ -7,17 +7,11 @@
 ![](https://github.com/lyokoth/lyokoth/blob/main/giphy.gif)
 <h2>About Me</h2>
 
-- 🔭 I’m currently working on: Finishing up my degree
+- 🔭 I’m currently working on: Finishing up portfolio
 - 🌱 I’m currently learning: HTML, CSS, Scala, C#
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I play soccer, volleyball, and I ran track&field. I also do Tae Kwon Do and enjoy working out. I also enjoy video games, reading manga, and drawing in my freetime.
-<h2>👩🏿‍💻 Passion projects:</h2> 
-- 
-  COVID-19 Fraud Loss : A project that examines the types of fraud that occurred during the COVID-19 pandemic, as well as fraud post COVID-19. Uses Python, R, and  Excel.
--  
-  Discord Bot
--
-  BTS Spotify analysis : A project using spotipy to analyze the top 10 albums and songs from the K-Pop band BTS.</p>
+
 
  ---
  
