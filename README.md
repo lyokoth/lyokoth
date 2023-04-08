@@ -7,8 +7,8 @@
 ![](https://github.com/lyokoth/lyokoth/blob/main/giphy.gif)
 <h2>About Me</h2>
 
-- 🔭 I’m currently working on: Finishing up portfolio
-- 🌱 I’m currently learning: HTML, CSS, Scala, C#
+- 🔭 I’m currently working on: Finishing up my portfolio
+- 🌱 I’m currently learning: JavaScript, React, Python
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I play soccer, volleyball, and I ran track&field. I also do Tae Kwon Do and enjoy working out. I also enjoy video games, reading manga, and drawing in my freetime.
 
