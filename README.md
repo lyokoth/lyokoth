@@ -12,7 +12,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I play soccer, volleyball, and I ran track&field. I also do Tae Kwon Do and enjoy working out. I also enjoy video games, reading manga, and drawing in my freetime.
 
-
+![Lyn's github stats](https://github-readme-stats.vercel.app/api?username=lyokoth)
  ---
  
 ### :hammer_and_wrench: Languages and Tools : 
