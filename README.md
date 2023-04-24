@@ -7,7 +7,7 @@
 ![](https://github.com/lyokoth/lyokoth/blob/main/giphy.gif)
 <h2>About Me</h2>
 
-- 🔭 I’m currently working on: Finishing up my portfolio, Spotify playlist project
+- 🔭 I’m currently working on: 🚀Deploying my portfolio, Spotify playlist project
 - 🌱 I’m currently learning: JavaScript, React, Python
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I play soccer, volleyball, and I ran track&field. I also do Tae Kwon Do and enjoy working out. I also enjoy video games, reading manga, and drawing in my freetime.
