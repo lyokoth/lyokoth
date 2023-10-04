@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=lyokoth&style=flat-square&color=blue" alt=""/>
 --- 
   
-![](https://github.com/lyokoth/lyokoth/blob/main/giphy.gif)
+![](https://github.com/lyokoth/lyokoth/blob/main/stray-kids.gif)
 <h2>About Me</h2>
 
 - 🔭 I’m currently working on: 🚀Deploying my portfolio
