@@ -11,7 +11,7 @@
 - My ![Analysis in pro sprinters' times in track & field](https://github.com/lyokoth/Performance-progression-in-track-and-field-)
 - A ![Weather app in Streamlit](https://github.com/lyokoth/stream-weather)
 - A ![Spotify mood Playlist](https://github.com/lyokoth/moodyfy)
-- 🌱 I’m currently learning: JavaScript, React, Python
+- 🌱 I’m currently learning: JavaScript, Python, R
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I play soccer, volleyball, and I ran track&field. I also do Tae Kwon Do and enjoy working out. I also enjoy video games, reading manga, and drawing in my freetime.
 
