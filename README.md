@@ -7,11 +7,12 @@
 ![](https://github.com/lyokoth/lyokoth/blob/main/stray-kids.gif)
 <h2>About Me</h2>
 
-- 🔭 I’m currently working on: 🚀Deploying my portfolio
-- My ![Analysis in pro sprinters' times in track & field](https://github.com/lyokoth/Performance-progression-in-track-and-field-)
-- A ![Weather app in Streamlit](https://github.com/lyokoth/stream-weather)
+- 🔭 I’m currently working on:
+- 🚀Deploying my portfolio
+- My ![Pokedex App](https://github.com/lyokoth/Pokedex-react)
+
 - A ![Spotify mood Playlist](https://github.com/lyokoth/moodyfy)
-- 🌱 I’m currently learning: JavaScript, Python, R
+- 🌱 I’m currently learning: Python, SQL, C#
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I play soccer, volleyball, and I ran track&field. I also do Tae Kwon Do and enjoy working out. I also enjoy video games, reading manga, and drawing in my freetime.
 
